@@ -55,15 +55,6 @@ int_rate , installment, annual_inc , funded_amnt_inv
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by preparatory session by UpGrad
-- References : Jun2021 recording of UpGrad session.
-
-
-
-## Contact
-Created by [@md-rahmat] - feel free to contact me!
 
 
 <!-- Optional -->
